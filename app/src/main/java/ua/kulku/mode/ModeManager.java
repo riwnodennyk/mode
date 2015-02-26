@@ -30,10 +30,10 @@ public class ModeManager {
     private static List<Mode> getAll() {
         return Arrays.asList(
                 new Mode(1, "Програмування, створюю корисне", R.color.red),
+                new Mode(2, "Стаю кращим виховником", R.color.green),
                 new Mode(3, "Слава української мови", R.color.yellow),
-                new Mode(7, "Людська наука", R.color.purple),
-                new Mode(8, "Технічна наука", R.color.black),
-                new Mode(9, "Стаю кращим виховником", R.color.green)
+                new Mode(4, "Людська наука", R.color.purple),
+                new Mode(5, "Технічна наука", R.color.black)
         );
     }
 

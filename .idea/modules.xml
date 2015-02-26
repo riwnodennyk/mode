@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ModeTask.iml" filepath="$PROJECT_DIR$/ModeTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mode.iml" filepath="$PROJECT_DIR$/mode.iml" />
     </modules>
   </component>
 </project>
